@@ -1,0 +1,106 @@
+body{
+    background-color: #f1f442;
+    padding:15px;
+    
+/*kalau mau bentuk fontnya bagus, pake font roboto coba gunain google font api
+    kalau gak tau tanya gue mok */
+    font-style: fendeta;
+}
+
+.first{
+    width: 100%;
+    height: 100%;
+}
+.bar{
+    background-color: #f1f442;
+    font-size: 30px; font-family: arial !important;
+}
+.login{
+    background-color: #f1f442;
+}
+
+
+/*
+.nama{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding-left: 20px;
+    color: white;
+    font-family: roboto;
+}
+
+.bio{
+    background-color: white;
+}
+
+/*
+jangan otak atik class bootstrapnya mok
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
+.wrapper-box-profile{
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+}
+
+.wrapper-image-profile{
+    height:250px;
+}
+
+.padding-in-8-0{
+    padding: 8px 0px;
+}
+.progress{
+    border-radius: 10px;
+}
+.wrapper-box-experience{
+    
+}
+.fa{
+    color: #1BB8BB;
+}
+.experience-box{
+    
+}
+.content{
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+    margin-bottom: 20px;
+}
+.contact{
+    padding-top: 10px;
+    background-color: #1BB8BB;
+    padding: 10px;
+   
+}
+
+.Copyright{
+    
+    position: center;
+    color: white;
+    
+}
+.sosmed{
+     padding:0px !important;
+     margin-bottom: 0px 
+}
+
+a{
+    text-decoration: none !important;
+}
+
+#progress {
+    width: 100%;
+    background-color: grey;
+}
+#progress-bar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+}*/
+
+.head{
+
+}
